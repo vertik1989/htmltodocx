@@ -1,0 +1,30 @@
+{
+    "name" : "vertik1989/htmltodocx",
+    "description" : "Finctions for help PHPWord to convert html to docx",
+    "type" : "symfony-bundle",
+    "authors" : [{
+        "name" : "vertik1989",
+        "email" : "vertik1989@gmail.com"
+    }],
+    "keywords" : [
+        "html to docx word phpword h2d htmltodocx"
+    ],
+    "license" : [
+        "MIT"
+    ],
+    "require" : {
+    },
+    "autoload" : {
+        "psr-0" : {
+            "vertik1989\\htmltodocx" : ""
+        }
+    },
+    "target-dir" : "vertik1989/htmltodocx",
+    "repositories" : [{
+    ],
+    "extra" : {
+    "branch-alias" : {
+            "dev-master" : "2.2-dev"
+        }
+    }
+}
