@@ -21,7 +21,7 @@
     },
     "target-dir" : "vertik1989/htmltodocx",
     "repositories" : [{
-    ],
+    }],
     "extra" : {
     "branch-alias" : {
             "dev-master" : "2.2-dev"
